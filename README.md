@@ -1,16 +1,13 @@
- Sistema Bancário - Atividade de LPI
+# Sistema Bancário - LPI
 
- Desenvolvido por:
-- **20230066172 - Talisson Pereira de Oliveira**
-- **20240061527 - Pedro Henrique Mendes Fernandes**
+## Desenvolvido por:
+- Talisson Oliveira (20230066172)
+- Pedro Fernandes (20240061527)
 
- Descrição:
-Sistema bancário desenvolvido em C++ para a disciplina de Linguagem de Programação I, implementando conceitos de Programação Orientada a Objetos com gestão completa de clientes e contas bancárias.
+## Sobre:
+Trabalho de Linguagem de Programação I - sistema bancário em C++ com classes para clientes e contas.
 
-
+## Como usar:
 ```bash
-
 chmod +x compilar.sh
-
-
 ./compilar.sh
